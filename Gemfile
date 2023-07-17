@@ -13,6 +13,8 @@ gem 'jquery-rails'
 
 gem 'iex-ruby-client'
 
+gem "font-awesome-rails"
+
 gem 'bootstrap', '~> 5.3.0.alpha3'
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
